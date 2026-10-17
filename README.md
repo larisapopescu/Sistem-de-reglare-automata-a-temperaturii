@@ -1,0 +1,1 @@
+# Sistem-de-reglare-automata-a-temperaturii
